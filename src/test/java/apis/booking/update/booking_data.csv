@@ -1,0 +1,4 @@
+id,nombre,apellido,precio,deposito,fecha_inicio,fecha_fin,adicional
+792,Richard,Pinedo,541,true,2022-07-31,2022-08-30,prueba1
+3190,Francisco,Pinedo,542,false,2022-08-01,2022-08-31,prueba2
+1828,Leonela,Lima,543,true,2022-08-02,2022-09-01,prueba3

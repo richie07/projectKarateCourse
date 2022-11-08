@@ -1,0 +1,29 @@
+[
+  {
+    "nombre":"Richard",
+    "apellido":"Pinedo",
+    "precio":541,
+    "deposito":true,
+    "fecha_inicio":"2022-07-31",
+    "fecha_fin":"2022-08-30",
+    "adicional":"prueba1"
+  },
+  {
+    "nombre":"Ricardo",
+    "apellido":"Pinedo",
+    "precio":341,
+    "deposito":true,
+    "fecha_inicio":"2022-07-31",
+    "fecha_fin":"2022-08-30",
+    "adicional":"prueba2"
+  },
+  {
+    "nombre":"Luis",
+    "apellido":"Pinedo",
+    "precio":200,
+    "deposito":false,
+    "fecha_inicio":"2022-07-31",
+    "fecha_fin":"2022-08-30",
+    "adicional":"prueba3"
+  }
+]
